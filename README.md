@@ -7,6 +7,10 @@
 - 💬 Check out my friends’ projects too! [Curve](https://github.com/Curve) and [ravi0lii](https://github.com/ravi0lii)
 - 📫 How to reach me: Twitter [@D3SOX](https://twitter.com/D3SOX)
 
+---
+
+<img align="left" alt="D3SOX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=D3SOX&show_icons=true&hide_border=true" />
+
 <!--
 **D3SOX/D3SOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
