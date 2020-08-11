@@ -9,8 +9,8 @@
 
 ---
 
-<img align="left" alt="D3SOX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=D3SOX&show_icons=true&hide_border=true&theme=dark" />
-<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3SOX&layout=compact&hide_border=true&theme=dark" />
+<img align="center" alt="D3SOX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=D3SOX&show_icons=true&hide_border=true&theme=dark" />
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3SOX&layout=compact&hide_border=true&theme=dark" />
 
 
 <!--
