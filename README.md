@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
 - 🌱 I’m currently learning Web Development
-- ⚡ Fun fact: I use Arch
 - 🔭 I’m currently working on some web apps ([Cardsity](https://github.com/Cardsity), [Audiorack](https://github.com/Audiorack)) & [Soundux](https://github.com/D3SOX/Soundux)
 - 🤔 I’m looking for help with making [Soundux](https://github.com/D3SOX/Soundux) cross-platform
 - 💬 Check out my friends’ projects too! [Curve](https://github.com/Curve) and [ravi0lii](https://github.com/ravi0lii)
