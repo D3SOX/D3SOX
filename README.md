@@ -6,7 +6,6 @@
 
 
 [![d3sox.icu](https://img.shields.io/badge/d3sox.icu-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://d3sox.icu/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=fff)](https://twitter.com/D3SOX)
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-C2AD07?style=for-the-badge&logo=javascript&logoColor=fff)
