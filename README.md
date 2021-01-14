@@ -6,6 +6,7 @@
 
 
 [![d3sox.icu](https://img.shields.io/badge/d3sox.icu-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://d3sox.icu/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-3088D4?logo=mastodon&style=for-the-badge&logoColor=fff)](https://autisten.club/@d3sox)
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-C2AD07?style=for-the-badge&logo=javascript&logoColor=fff)
