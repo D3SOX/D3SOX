@@ -34,5 +34,5 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=0366d6" alt="d3sox" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" alt="d3sox" />
 </p>
