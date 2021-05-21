@@ -16,13 +16,13 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=fff)](https://kotlinlang.org/)
 
 #### Front-end development
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)](https://vuejs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=fff)](https://vuejs.org/)
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=fff)](https://vuetifyjs.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)](https://tailwindcss.com/)
 [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
 
 #### Back-end development
-[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=fff)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)](https://nestjs.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)](https://laravel.com/)
 
