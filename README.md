@@ -12,6 +12,8 @@
 
 ---
 
+<div align="center">
+
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-C2AD07?style=for-the-badge&logo=javascript&logoColor=fff)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
@@ -59,3 +61,5 @@
 <br>
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=fff)](https://www.raspberrypi.org/)
 [![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=fff)](https://pi-hole.net/)
+
+</div>
