@@ -1,12 +1,15 @@
-<h1 align="center">Hi there 👋</h1>
+## Hi there 👋
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" alt="d3sox" />
 
 - 🌱 I’m currently learning Web Development
 - 🔭 I’m currently working on [Soundux](https://github.com/Soundux/Soundux) & some other apps ([Cardsity](https://github.com/Cardsity), [Audiorack](https://github.com/Audiorack))
 - 💬 Check out my friends’ projects too! [Curve](https://github.com/Curve) and [ravi0lii](https://github.com/ravi0lii)
 
-
 [![d3sox.me](https://img.shields.io/badge/d3sox.me-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://d3sox.me/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-3088D4?logo=mastodon&style=for-the-badge&logoColor=fff)](https://chaos.social/@d3sox)
+
+---
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-C2AD07?style=for-the-badge&logo=javascript&logoColor=fff)
@@ -33,7 +36,3 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)](https://www.jenkins.io/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=fff)](https://insomnia.rest/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" alt="d3sox" />
-</p>
