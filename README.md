@@ -39,8 +39,8 @@
 [![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-800000?style=for-the-badge&logo=ublock%20origin&logoColor=fff)](https://github.com/gorhill/uBlock/)
 <br>
 [![PhpStorm](https://img.shields.io/badge/PhpStorm-c545e3?style=for-the-badge&logo=phpstorm&logoColor=fff)](https://www.jetbrains.com/phpstorm/)
-[![CLion](https://img.shields.io/badge/CLion-0aacca?style=for-the-badge&logo=clion&logoColor=fff)](https://www.jetbrains.com/phpstorm/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-fe2857?style=for-the-badge&logo=intellij%20idea&logoColor=fff)](https://www.jetbrains.com/phpstorm/)
+[![CLion](https://img.shields.io/badge/CLion-0aacca?style=for-the-badge&logo=clion&logoColor=fff)](https://www.jetbrains.com/clion/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-fe2857?style=for-the-badge&logo=intellij%20idea&logoColor=fff)](https://www.jetbrains.com/idea/)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)](https://neovim.io/)
 
 #### Mobile OS & Software
