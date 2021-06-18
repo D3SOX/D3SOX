@@ -28,7 +28,7 @@
 [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
 
 #### Back-end development
-[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=fff)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/node-dot-js-339933?style=for-the-badge&logo=node-dot-js&logoColor=fff)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)](https://nestjs.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)](https://laravel.com/)
 
