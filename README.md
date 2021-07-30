@@ -12,6 +12,9 @@
 
 ---
 
+<details> 
+<summary>See more information about the stuff I use</summary>
+
 <div align="center">
 
 #### Languages
@@ -63,3 +66,4 @@
 [![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=fff)](https://pi-hole.net/)
 
 </div>
+</details>
