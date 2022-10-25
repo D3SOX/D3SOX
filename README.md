@@ -3,7 +3,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" alt="d3sox" />
 
 - 🌱 I’m currently learning Web Development
-- 🔭 I’m currently working on [Soundux](https://github.com/Soundux/Soundux) & some other apps ([Cardsity](https://github.com/Cardsity), [Audiorack](https://github.com/Audiorack))
+- 🔭 I’m currently working on [Soundux](https://github.com/Soundux/Soundux) & some other apps ([Cardsity](https://github.com/Cardsity), [Decibel](https://github.com/GetDecibel))
 - 💬 Check out my friends’ projects too! [Curve](https://github.com/Curve) and [ravi0lii](https://github.com/ravi0lii)
 
 [![d3sox.me](https://img.shields.io/badge/d3sox.me-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://d3sox.me/)
