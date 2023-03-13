@@ -8,6 +8,7 @@
 
 [![d3sox.me](https://img.shields.io/badge/d3sox.me-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://d3sox.me/)
 [![Matrix](https://img.shields.io/badge/Matrix-000000?logo=matrix&style=for-the-badge&logoColor=fff)](https://matrix.to/#/@d3sox:matrix.org)
+[![Mastodon](https://img.shields.io/badge/Mastodon-3088D4?logo=mastodon&style=for-the-badge&logoColor=fff)](https://social.tchncs.de/@d3sox)
 
 ---
 
