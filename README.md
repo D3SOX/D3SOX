@@ -2,13 +2,13 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" alt="d3sox" />
 
-- 🌱 I’m currently learning Web Development
-- 🔭 I’m currently working on [Soundux](https://github.com/Soundux/Soundux) & some other apps ([BeatPiper](https://github.com/BeatPiper), [Decibel](https://github.com/GetDecibel))
-- 💬 Check out my friends’ projects too! [Curve](https://github.com/Curve) and [ravi0lii](https://github.com/ravi0lii)
+💬 Connect with me
 
 [![d3sox.me](https://img.shields.io/badge/d3sox.me-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://d3sox.me/)
 [![Matrix](https://img.shields.io/badge/Matrix-000000?logo=matrix&style=for-the-badge&logoColor=fff)](https://matrix.to/#/@d3sox:matrix.org)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&style=for-the-badge&logoColor=fff)](https://social.tchncs.de/@d3sox)
+
+👉 Check out my friends’ projects too! [Curve](https://github.com/Curve) and [ravi0lii](https://github.com/ravi0lii)
 
 ---
 
@@ -57,7 +57,7 @@
 [![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=fff)](https://bitwarden.com/)
 [![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=fff)](https://www.nginx.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)](https://www.jenkins.io/)
-[![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=fff)](https://insomnia.rest/)
+[![Insomnium](https://img.shields.io/badge/Insomnium-5849BE?style=for-the-badge&logo=insomnia&logoColor=fff)](https://archgpt.dev/insomnium)
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff)](https://yarnpkg.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
 <br>
