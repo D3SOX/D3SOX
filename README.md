@@ -46,7 +46,7 @@
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)](https://neovim.io/)
 
 #### Mobile OS & Software
-[![OnePlus](https://img.shields.io/badge/OnePlus-F5010C?style=for-the-badge&logo=oneplus&logoColor=fff)](https://www.oneplus.com/)
+[![Google Pixel](https://img.shields.io/badge/Google%20Pixel-4285F4?style=for-the-badge&logo=google&logoColor=fff)](https://store.google.com/category/phones/)
 [![LineageOS](https://img.shields.io/badge/LineageOS-167C80?style=for-the-badge&logo=lineageos&logoColor=fff)](https://lineageos.org/)
 [![microG](https://img.shields.io/badge/microG-4285F4?style=for-the-badge&logo=google&logoColor=fff)](https://microg.org/)
 [![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=fff)](https://f-droid.org/)
