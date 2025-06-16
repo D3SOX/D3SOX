@@ -53,6 +53,7 @@
 [![Aurora Store](https://img.shields.io/badge/Aurora%20Store-414141?style=for-the-badge&logo=google%20play&logoColor=fff)](https://gitlab.com/AuroraOSS/AuroraStore/)
 
 #### Other tools
+[![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=fff)](https://www.home-assistant.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
 [![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=fff)](https://bitwarden.com/)
 [![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=fff)](https://www.nginx.com/)
