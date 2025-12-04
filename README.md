@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" width="50%" src="https://github-readme-stats-fawn-zeta-33.vercel.app/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" alt="d3sox" />
+<img align="right" width="50%" src="https://github-readme-stats.d3sox.me/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" alt="d3sox" />
 
 💬 Connect with me
 
