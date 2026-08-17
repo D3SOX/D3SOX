@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" width="50%" src="https://github-readme-stats.d3sox.me/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="d3sox" />
+<img align="right" width="50%" src="https://github-readme-stats.d3sox.me/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff&owner=D3SOX,OpenTubeX,Soundux,D3SOX-Forks" alt="d3sox" />
 
 💬 Connect with me
 
