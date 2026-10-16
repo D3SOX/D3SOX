@@ -6,6 +6,7 @@
 
 <a href="https://d3sox.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/d3sox-me-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/d3sox-me-light.svg" alt="d3sox.me" width="112" height="32"></picture></a>
 <a href="https://matrix.to/#/@d3sox:matrix.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/matrix-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/matrix-light.svg" alt="Matrix" width="91" height="32"></picture></a>
+<a href="https://web.fluxer.app/users/1479771834633138577" title="d3sox#3620"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/fluxer-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/fluxer-light.svg" alt="Fluxer" width="89" height="32"></picture></a>
 
 👉 Check out my friends’ projects too! [Curve](https://github.com/Curve) and [ravi0lii](https://github.com/ravi0lii)
 
