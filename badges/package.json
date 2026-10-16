@@ -1,0 +1,13 @@
+{
+  "name": "d3sox-profile-badges",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "cf deploy --dry-run",
+    "deploy": "cf deploy"
+  },
+  "devDependencies": {
+    "cf": "1.0.0-beta.17",
+    "wrangler": "4.151.0"
+  }
+}

@@ -4,8 +4,8 @@
 
 💬 Connect with me
 
-[![d3sox.me](https://img.shields.io/badge/d3sox.me-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://d3sox.me/)
-[![Matrix](https://img.shields.io/badge/Matrix-000000?logo=matrix&style=for-the-badge&logoColor=fff)](https://matrix.to/#/@d3sox:matrix.org)
+<a href="https://d3sox.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/d3sox-me-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/d3sox-me-light.svg" alt="d3sox.me" width="112" height="32"></picture></a>
+<a href="https://matrix.to/#/@d3sox:matrix.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/matrix-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/matrix-light.svg" alt="Matrix" width="91" height="32"></picture></a>
 
 👉 Check out my friends’ projects too! [Curve](https://github.com/Curve) and [ravi0lii](https://github.com/ravi0lii)
 
@@ -17,47 +17,52 @@
 <div align="center">
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-C2AD07?style=for-the-badge&logo=javascript&logoColor=fff)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)](https://www.php.net/)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/javascript-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/javascript-light.svg" alt="JavaScript" width="117" height="32"></picture>
+<a href="https://www.typescriptlang.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/typescript-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/typescript-light.svg" alt="TypeScript" width="118" height="32"></picture></a>
+<a href="https://www.php.net/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/php-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/php-light.svg" alt="PHP" width="78" height="32"></picture></a>
 
 #### Front-end development
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)](https://vuejs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://reactjs.org/)
-[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
+<a href="https://vuejs.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/vue-js-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/vue-js-light.svg" alt="Vue.js" width="89" height="32"></picture></a>
+<a href="https://reactjs.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/react-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/react-light.svg" alt="React" width="86" height="32"></picture></a>
+<a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/scss-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/scss-light.svg" alt="SCSS" width="85" height="32"></picture></a>
 
 #### Back-end development
-[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)](https://laravel.com/)
+<a href="https://nodejs.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/node-js-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/node-js-light.svg" alt="Node.js" width="98" height="32"></picture></a>
+<a href="https://laravel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/laravel-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/laravel-light.svg" alt="Laravel" width="96" height="32"></picture></a>
 
 #### Desktop OS & Software
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch%20linux&logoColor=fff)](https://www.archlinux.org/)
-[![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=fff)](https://kde.org/)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox%20browser&logoColor=fff)](https://firefox.com/)
-[![uBlock Origin](https://img.shields.io/badge/uBlock%20Origin-800000?style=for-the-badge&logo=ublock%20origin&logoColor=fff)](https://github.com/gorhill/uBlock/)
+<a href="https://www.archlinux.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/arch-linux-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/arch-linux-light.svg" alt="Arch Linux" width="117" height="32"></picture></a>
+<a href="https://kde.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/kde-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/kde-light.svg" alt="KDE" width="76" height="32"></picture></a>
+<a href="https://firefox.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/firefox-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/firefox-light.svg" alt="Firefox" width="94" height="32"></picture></a>
+<a href="https://github.com/gorhill/uBlock/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/ublock-origin-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/ublock-origin-light.svg" alt="uBlock Origin" width="134" height="32"></picture></a>
 <br>
-[![PhpStorm](https://img.shields.io/badge/PhpStorm-c545e3?style=for-the-badge&logo=phpstorm&logoColor=fff)](https://www.jetbrains.com/phpstorm/)
-[![CLion](https://img.shields.io/badge/CLion-0aacca?style=for-the-badge&logo=clion&logoColor=fff)](https://www.jetbrains.com/clion/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-fe2857?style=for-the-badge&logo=intellij%20idea&logoColor=fff)](https://www.jetbrains.com/idea/)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)](https://neovim.io/)
+<a href="https://www.jetbrains.com/phpstorm/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/phpstorm-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/phpstorm-light.svg" alt="PhpStorm" width="113" height="32"></picture></a>
+<a href="https://www.jetbrains.com/clion/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/clion-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/clion-light.svg" alt="CLion" width="87" height="32"></picture></a>
+<a href="https://www.jetbrains.com/idea/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/intellij-idea-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/intellij-idea-light.svg" alt="IntelliJ IDEA" width="127" height="32"></picture></a>
+<a href="https://neovim.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/neovim-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/neovim-light.svg" alt="Neovim" width="99" height="32"></picture></a>
 
 #### Mobile OS & Software
-[![Google Pixel](https://img.shields.io/badge/Google%20Pixel-4285F4?style=for-the-badge&logo=google&logoColor=fff)](https://store.google.com/category/phones/)
-[![LineageOS](https://img.shields.io/badge/LineageOS-167C80?style=for-the-badge&logo=lineageos&logoColor=fff)](https://lineageos.org/)
-[![microG](https://img.shields.io/badge/microG-4285F4?style=for-the-badge&logo=google&logoColor=fff)](https://microg.org/)
-[![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=fff)](https://f-droid.org/)
-[![Aurora Store](https://img.shields.io/badge/Aurora%20Store-414141?style=for-the-badge&logo=google%20play&logoColor=fff)](https://gitlab.com/AuroraOSS/AuroraStore/)
+<a href="https://store.google.com/category/phones/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/google-pixel-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/google-pixel-light.svg" alt="Google Pixel" width="129" height="32"></picture></a>
+<a href="https://lineageos.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/lineageos-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/lineageos-light.svg" alt="LineageOS" width="118" height="32"></picture></a>
+<a href="https://microg.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/microg-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/microg-light.svg" alt="microG" width="96" height="32"></picture></a>
+<a href="https://f-droid.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/f-droid-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/f-droid-light.svg" alt="F-Droid" width="96" height="32"></picture></a>
+<a href="https://gitlab.com/AuroraOSS/AuroraStore/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/aurora-store-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/aurora-store-light.svg" alt="Aurora Store" width="130" height="32"></picture></a>
 
 #### Other tools
-[![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=fff)](https://www.home-assistant.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
-[![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=fff)](https://bitwarden.com/)
-[![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=fff)](https://www.nginx.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)](https://www.jenkins.io/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
+<a href="https://www.home-assistant.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/home-assistant-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/home-assistant-light.svg" alt="Home Assistant" width="151" height="32"></picture></a>
+<a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/docker-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/docker-light.svg" alt="Docker" width="95" height="32"></picture></a>
+<a href="https://bitwarden.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/bitwarden-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/bitwarden-light.svg" alt="Bitwarden" width="114" height="32"></picture></a>
+<a href="https://www.nginx.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/nginx-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/nginx-light.svg" alt="NGINX" width="93" height="32"></picture></a>
+<a href="https://www.jenkins.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/jenkins-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/jenkins-light.svg" alt="Jenkins" width="99" height="32"></picture></a>
+<a href="https://www.postgresql.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/postgresql-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/postgresql-light.svg" alt="PostgreSQL" width="125" height="32"></picture></a>
 <br>
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=fff)](https://www.raspberrypi.org/)
-[![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=fff)](https://pi-hole.net/)
+<a href="https://www.raspberrypi.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/raspberry-pi-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/raspberry-pi-light.svg" alt="Raspberry Pi" width="130" height="32"></picture></a>
+<a href="https://pi-hole.net/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/pi-hole-dark.svg"><img src="https://d3sox-profile-badges.withered-flower-f0f2.workers.dev/pi-hole-light.svg" alt="Pi-hole" width="95" height="32"></picture></a>
 
 </div>
 </details>
+
+<!--
+Badge SVGs live in badges/public and use Simple Icons with Roboto lettering rendered as paths.
+To redeploy: cd badges && bun install --frozen-lockfile && bun run check && bun run deploy
+-->
