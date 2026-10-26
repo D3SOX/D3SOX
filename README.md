@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" width="50%" src="https://github-readme-stats.d3sox.me/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff&owner=D3SOX,D3SOX-Forks,OpenTubeX,BeatPiper,Soundux" alt="d3sox" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.d3sox.me/api?username=D3SOX&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff&owner=D3SOX,D3SOX-Forks,OpenTubeX,BeatPiper,Soundux"><img align="right" width="50%" src="https://github-readme-stats.d3sox.me/api?username=D3SOX&show_icons=true&hide_border=true&title_color=1f2328&bg_color=f6f8fa&text_color=1f2328&icon_color=0969da&owner=D3SOX,D3SOX-Forks,OpenTubeX,BeatPiper,Soundux" alt="d3sox" /></picture>
 
 💬 Connect with me
 
